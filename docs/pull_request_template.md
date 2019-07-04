@@ -1,22 +1,19 @@
-**COMPONENT**
+**COMPONENTE**
 
-**ISSUE NUMBER**
+**NÚMERO DA ISSUE**
 _____________________________________________________________________________
 
 **PR Checklist**
 
-- [ ] Code
-- [ ] Test
-- [ ] Documentation
+- [ ] Código
+- [ ] Testes
+- [ ] Documentação
 - [ ] Samples
 
-**What is the current behavior?**
+**Qual o comportamento atual?**
 
 
-**What is the new behavior?**
+**Qual o novo comportamento?**
 
 
-**Simulation**
-
-
-portugues
+**Simulação**
