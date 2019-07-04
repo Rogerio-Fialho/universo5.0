@@ -6,7 +6,7 @@ _____________________________________________________________________________
 **PR Checklist**
 
 - [ ] Código
-- [ ] Testes
+- [ ] Testes unitários
 - [ ] Documentação
 - [ ] Samples
 
